@@ -3,7 +3,7 @@
 
 ## 🚀 Key Features
 
-- ✅ **Implemented Four Image Captioning Models**:
+- ✅ **Implemented Four Image Captioning Models**: 
   - **LSTM-based Captioning**
   - **BiLSTM-based Captioning**
   - **ViT-GPT2** (Vision Transformer with GPT-2)
